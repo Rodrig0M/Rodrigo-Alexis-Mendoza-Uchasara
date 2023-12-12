@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Rodrigo-Alexis-Mendoza-Uchasara/static/css/main.b3b9f6fc.css",
+    "main.js": "/Rodrigo-Alexis-Mendoza-Uchasara/static/js/main.343036ab.js",
+    "static/js/787.ad403f68.chunk.js": "/Rodrigo-Alexis-Mendoza-Uchasara/static/js/787.ad403f68.chunk.js",
+    "static/media/Ada1.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/Ada1.d18b1132f02bbe42a4b6.jpg",
+    "static/media/turing2.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/turing2.289318db29ce705e231d.jpg",
+    "static/media/CentraNo2-Book.ttf": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/MargaretHamilton.png": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/MargaretHamilton.7b4d58cb60859d9115d0.png",
+    "static/media/apolo11.jpeg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/apolo11.cc930b233bc3d5d158ca.jpeg",
+    "static/media/AdaLovelace.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/AdaLovelace.a85710edd518b9bfd05d.jpg",
+    "static/media/BillGates.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/BillGates.7a112afd416b76a95cf2.jpg",
+    "static/media/DennisRitchie.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/DennisRitchie.fafcc529bde1e5a7bb19.jpg",
+    "static/media/descarga.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/descarga.b41909add7d8876b4dcf.jpg",
+    "static/media/SteveJobs.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/SteveJobs.0981e4fd453a506d1c78.jpg",
+    "static/media/AlanTuring.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/AlanTuring.07dbf6d142a31053d107.jpg",
+    "static/media/GraceHopper.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/GraceHopper.b06656297ca2cb24110b.jpg",
+    "static/media/linusTorvalds.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/linusTorvalds.9f4089c9be522b2fc81b.jpg",
+    "static/media/TimBerners.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/TimBerners.75c0f00557c75c5931d6.jpg",
+    "static/media/JhonMcCarthy.jpg": "/Rodrigo-Alexis-Mendoza-Uchasara/static/media/JhonMcCarthy.cde55fe3dc752a74848f.jpg",
+    "index.html": "/Rodrigo-Alexis-Mendoza-Uchasara/index.html",
+    "main.b3b9f6fc.css.map": "/Rodrigo-Alexis-Mendoza-Uchasara/static/css/main.b3b9f6fc.css.map",
+    "main.343036ab.js.map": "/Rodrigo-Alexis-Mendoza-Uchasara/static/js/main.343036ab.js.map",
+    "787.ad403f68.chunk.js.map": "/Rodrigo-Alexis-Mendoza-Uchasara/static/js/787.ad403f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3b9f6fc.css",
+    "static/js/main.343036ab.js"
+  ]
+}
